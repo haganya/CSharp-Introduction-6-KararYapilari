@@ -1,0 +1,6 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170806-2Con_KararYapilari\20170806-2Con_KararYapilari\bin\Debug\20170806-2Con_KararYapilari.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170806-2Con_KararYapilari\20170806-2Con_KararYapilari\bin\Debug\20170806-2Con_KararYapilari.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170806-2Con_KararYapilari\20170806-2Con_KararYapilari\bin\Debug\20170806-2Con_KararYapilari.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170806-2Con_KararYapilari\20170806-2Con_KararYapilari\obj\Debug\20170806-2Con_KararYapilari.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170806-2Con_KararYapilari\20170806-2Con_KararYapilari\obj\Debug\20170806-2Con_KararYapilari.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170806-2Con_KararYapilari\20170806-2Con_KararYapilari\obj\Debug\20170806-2Con_KararYapilari.pdb
